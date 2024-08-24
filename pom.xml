@@ -89,7 +89,7 @@
             <dependency>
                 <groupId>com.squareup.okhttp3</groupId>
                 <artifactId>okhttp</artifactId>
-                <version>3.8.1</version>
+                <version>4.10.0</version>
             </dependency>
 
             <!-- Brings JUnit 4.12 and mockito-core 2.23.4 -->
